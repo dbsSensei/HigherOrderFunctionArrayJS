@@ -1,8 +1,13 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
+import ArrayMethod from "./component/arrays";
 
 function App() {
-  return;
+  return (
+    <div>
+      <ArrayMethod />
+    </div>
+  );
 }
 
 export default App;
